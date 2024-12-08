@@ -51,3 +51,6 @@
     "longitude": 120.42575,
     "address": "山东省青岛市李沧区金水路1014号"
 }
+
+
+[![HitCount](https://hits.dwyl.com/findlbs/lbsdata.svg?style=flat)](http://hits.dwyl.com/findlbs/lbsdata)
